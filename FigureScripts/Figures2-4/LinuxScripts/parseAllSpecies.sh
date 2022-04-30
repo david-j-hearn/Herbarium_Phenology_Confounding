@@ -1,0 +1,13 @@
+./parse_iDigBio_Occurrences.pl ../InfoFiles/AnemonoidesQuinquefolia.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/CamassiaScilloides.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/CardamineConcatenata.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/ClaytoniaVirginica.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/DicentraCucullaria.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/DodecatheonMeadia.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/EnemionBiternatum.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/ErythroniumAmericanum.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/MertensiaVirginica.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/PodophyllumPeltatum.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/SanguinariCanadensis.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/ThalictrumThalictroides.info.txt
+./parse_iDigBio_Occurrences.pl ../InfoFiles/CollinsiaVerna.info.txt

@@ -1,0 +1,13 @@
+Anemone quinquefolia	../../SpecimenFiles/AnemonoidesQuinquefolia/AnemoneQuinquifolia_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Camassia scilloides	../../SpecimenFiles/CamassiaScilloides/CamassiaScilloides_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Cardamine concatenata	../../SpecimenFiles/CardamineConcatenata/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Claytonia virginica	../../SpecimenFiles/ClaytoniaVirginica/ClaytoniaVirginica_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Dicentra cucullaria	../../SpecimenFiles/DicentraCucullaria/DicentraCucullaria_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Primula meadia	../../SpecimenFiles/DodecatheonMeadia/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Enemion biternatum	../../SpecimenFiles/EnemionBiternatum/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Erythronium americanum	../../SpecimenFiles/ErythroniumAmericanum/ErythroniumAmericanum_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Mertensia virginica	../../SpecimenFiles/MertensiaVirginica/MertensiaVirginica_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Podophyllum peltatum	../../SpecimenFiles/PodophyllumPeltatum/PodophyllumPeltatum_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Sanguinaria canadensis	../../SpecimenFiles/SanguinariaCanadensis/SanguinariaCanadensis_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Thalictrum thalictroides	../../SpecimenFiles/ThalictrumThalictroides/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt
+Collinsia verna	../../SpecimenFiles/CollinsiaVerna/CollinsiaVerna_All_Geo/uncorrelatedAnalysis/uncorrelatedAnalysis.results.txt

@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/CamassiaScilloides/CamassiaScilloides_All_Geo/occurrence.csv
+output	../../SpecimenFiles/CamassiaScilloides/CamassiaScilloides_All_Geo/occurrence.Parsed.csv
+scientific name	Camassia scilloides
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

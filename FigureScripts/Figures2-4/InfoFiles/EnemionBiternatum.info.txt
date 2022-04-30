@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/EnemionBiternatum/occurrence.csv
+output	../../SpecimenFiles/EnemionBiternatum/occurrence.Parsed.csv
+scientific name	Isopyrum biternatum
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

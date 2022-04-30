@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/CardamineConcatenata/occurrence.csv
+output	../../SpecimenFiles/CardamineConcatenata/occurrence.Parsed.csv
+scientific name	Cardamine concatenata
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

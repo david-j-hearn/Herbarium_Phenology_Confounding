@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/DicentraCucullaria/DicentraCucullaria_All_Geo/occurrence.csv
+output	../../SpecimenFiles/DicentraCucullaria/DicentraCucullaria_All_Geo/occurrence.Parsed.csv
+scientific name	Dicentra cucullaria
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

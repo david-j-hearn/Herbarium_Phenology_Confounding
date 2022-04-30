@@ -1,0 +1,26 @@
+http://www.idigbio.org/portal (2021),
+Query: {"filtered": {"filter": {"and": [{"exists": {"field": "geopoint"}}, {"term": {"scientificname": "collinsia verna"}}]}}},
+190 records, accessed on 2021-05-19T23:50:44.575003,
+contributed by 22 Recordsets, Recordset identifiers:
+http://www.idigbio.org/portal/recordsets/db6c3db9-1e6d-4def-af29-33aa0339bfa9 (87 records)
+http://www.idigbio.org/portal/recordsets/0dab1fc7-ca99-456b-9985-76edbac003e0 (32 records)
+http://www.idigbio.org/portal/recordsets/d7b285d4-2643-45ee-9302-b0c3d51dda5c (17 records)
+http://www.idigbio.org/portal/recordsets/d53132e6-7997-4850-8607-4fec5a3f9c3f (16 records)
+http://www.idigbio.org/portal/recordsets/f0174bc9-0cca-450e-a941-655d80040139 (7 records)
+http://www.idigbio.org/portal/recordsets/b880344e-22b2-4540-a56a-1de5f5601a20 (7 records)
+http://www.idigbio.org/portal/recordsets/40250f4d-7aa6-4fcc-ac38-2868fa4846bd (4 records)
+http://www.idigbio.org/portal/recordsets/c569e530-7322-40b8-9b66-1e0ed96fefcb (2 records)
+http://www.idigbio.org/portal/recordsets/f778ecc0-8371-49d5-9ab1-9d75f0b76fad (2 records)
+http://www.idigbio.org/portal/recordsets/c1e2b821-96a2-422f-a1fe-7a53aaa2e9bf (2 records)
+http://www.idigbio.org/portal/recordsets/9401f7e8-7d41-4c57-a5da-8839be046935 (2 records)
+http://www.idigbio.org/portal/recordsets/65536dcd-7bb2-44e5-af3f-4a13f08e53d0 (2 records)
+http://www.idigbio.org/portal/recordsets/6f470382-cb0b-4634-a796-2248bfa97fdc (1 records)
+http://www.idigbio.org/portal/recordsets/e6eba8cd-fa2c-4ba2-bec0-6841e7633695 (1 records)
+http://www.idigbio.org/portal/recordsets/4fed055b-3c46-4ec4-b76d-84d43df9258b (1 records)
+http://www.idigbio.org/portal/recordsets/20360fae-574a-4d63-b9f6-47b1cc07fd22 (1 records)
+http://www.idigbio.org/portal/recordsets/7a8d946d-083f-4d2a-9cc9-cd590398194f (1 records)
+http://www.idigbio.org/portal/recordsets/83ad8494-136b-485a-87d4-8ce01dd6a8de (1 records)
+http://www.idigbio.org/portal/recordsets/1527b668-b797-42be-94d3-0058e1393e94 (1 records)
+http://www.idigbio.org/portal/recordsets/5835f642-2560-4e3e-9c25-741a12cc3fe8 (1 records)
+http://www.idigbio.org/portal/recordsets/b5b79eb9-c270-4427-9cd6-43bd6c4b73ab (1 records)
+http://www.idigbio.org/portal/recordsets/945d6d7d-c768-4189-be9d-f693104d590c (1 records)

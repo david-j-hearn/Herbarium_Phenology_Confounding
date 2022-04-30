@@ -1,0 +1,26 @@
+http://www.idigbio.org/portal (2021),
+Query: {"filtered": {"filter": {"and": [{"exists": {"field": "geopoint"}}, {"term": {"scientificname": "enemion biternatum"}}]}}},
+394 records, accessed on 2021-05-17T22:09:36.932369,
+contributed by 22 Recordsets, Recordset identifiers:
+http://www.idigbio.org/portal/recordsets/e2def7e2-1455-4856-9823-6d3738417d24 (91 records)
+http://www.idigbio.org/portal/recordsets/d7b285d4-2643-45ee-9302-b0c3d51dda5c (82 records)
+http://www.idigbio.org/portal/recordsets/0dab1fc7-ca99-456b-9985-76edbac003e0 (78 records)
+http://www.idigbio.org/portal/recordsets/3998ec8d-4aae-46db-9370-179c19b69356 (55 records)
+http://www.idigbio.org/portal/recordsets/b2b294ed-1742-4479-b0c8-a8891fccd7eb (25 records)
+http://www.idigbio.org/portal/recordsets/db6c3db9-1e6d-4def-af29-33aa0339bfa9 (15 records)
+http://www.idigbio.org/portal/recordsets/5baa1d0c-cfc0-4c89-8e3e-7a49359b0caa (11 records)
+http://www.idigbio.org/portal/recordsets/664bd710-8791-4dba-a3b6-000a1b140951 (11 records)
+http://www.idigbio.org/portal/recordsets/f0174bc9-0cca-450e-a941-655d80040139 (5 records)
+http://www.idigbio.org/portal/recordsets/cb33cf97-2a7b-4b45-9b73-5aca568332a6 (4 records)
+http://www.idigbio.org/portal/recordsets/4fed055b-3c46-4ec4-b76d-84d43df9258b (3 records)
+http://www.idigbio.org/portal/recordsets/4e3043a6-d48a-4a35-b5fb-f67d50cbc158 (2 records)
+http://www.idigbio.org/portal/recordsets/781fd581-7b93-471e-a025-413e4bcd8491 (2 records)
+http://www.idigbio.org/portal/recordsets/8dfc3d88-8f6b-4432-b69c-534717906004 (2 records)
+http://www.idigbio.org/portal/recordsets/20360fae-574a-4d63-b9f6-47b1cc07fd22 (1 records)
+http://www.idigbio.org/portal/recordsets/43aa1339-67e4-4298-b7c5-3d0f201266ef (1 records)
+http://www.idigbio.org/portal/recordsets/c2767dde-1315-4d78-abf9-8e098dd588ab (1 records)
+http://www.idigbio.org/portal/recordsets/215eeaf0-0a88-409e-a75d-aec98b7c41eb (1 records)
+http://www.idigbio.org/portal/recordsets/14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a (1 records)
+http://www.idigbio.org/portal/recordsets/06c35934-1b75-4196-838d-29d509951bf9 (1 records)
+http://www.idigbio.org/portal/recordsets/c3134980-bf5c-49b8-a289-790d45f02c86 (1 records)
+http://www.idigbio.org/portal/recordsets/9e5aede6-bee5-4a3d-a255-513771b20035 (1 records)

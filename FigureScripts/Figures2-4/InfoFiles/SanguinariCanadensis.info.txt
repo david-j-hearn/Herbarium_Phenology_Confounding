@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/SanguinariaCanadensis/SanguinariaCanadensis_All_Geo/occurrence.csv
+output	../../SpecimenFiles/SanguinariaCanadensis/SanguinariaCanadensis_All_Geo/occurrence.Parsed.csv
+scientific name	Sanguinaria canadensis
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

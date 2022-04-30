@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/MertensiaVirginica/MertensiaVirginica_All_Geo/occurrence.csv
+output	../../SpecimenFiles/MertensiaVirginica/MertensiaVirginica_All_Geo/occurrence.Parsed.csv
+scientific name	Mertensia virginica
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

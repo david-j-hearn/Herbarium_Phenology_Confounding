@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/ThalictrumThalictroides/occurrence.csv
+output	../../SpecimenFiles/ThalictrumThalictroides/occurrence.Parsed.csv
+scientific name	Thalictrum thalictroides
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

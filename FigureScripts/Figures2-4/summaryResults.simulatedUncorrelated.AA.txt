@@ -1,0 +1,14 @@
+name	Shapiro.Wilks	DateVLat	YearVSS	LatVDOY	DatePLatVDOY_Lat	LatVDOYMLat	DateVDOY	DateVDOYMLat	DatePLatVDOY_Date	YearVMinDOY	YearVMinDOYMLat	YearVMinDOYMSS	YearVMinDOYMLatMSS
+Anemone quinquefolia	0.036	0	1	0.935	0.935	0	0.039	0.04	0.04	0.758	0.734	0.056	0.057
+Camassia scilloides	0.003	0.097	1	1	1	0	0.12	0.052	0.053	0.881	0.38	0.262	0.059
+Cardamine concatenata	0.117	1	1	1	1	0	0.377	0.044	0.046	1	0.982	0.407	0.074
+Claytonia virginica	0.192	1	1	1	1	0	0.574	0.043	0.045	1	0.992	0.448	0.082
+Collinsia verna	0.005	1	1	0.801	0.765	0	0.147	0.043	0.052	0.517	0.295	0.095	0.055
+Dicentra cucullaria	0.393	1	1	1	1	0	0.986	0.05	0.052	1	0.904	0.973	0.072
+Enemion biternatum	0.035	0	1	1	1	0	0.016	0.047	0.045	0.984	0.615	0.231	0.07
+Erythronium americanum	0.066	1	1	1	1	0	0.667	0.05	0.052	1	0.987	0.668	0.074
+Mertensia virginica	0.029	1	1	1	1	0	0.674	0.041	0.047	0.666	0.173	0.247	0.046
+Podophyllum peltatum	0.121	1	1	1	1	0	0.602	0.048	0.051	1	0.987	0.411	0.069
+Primula meadia	0.017	1	1	1	1	0	0.891	0.043	0.052	0.86	0.318	0.391	0.067
+Sanguinaria canadensis	0.101	1	0	1	1	0	0.352	0.039	0.044	0.533	0.146	0.246	0.067
+Thalictrum thalictroides	0.211	1	1	1	1	0	0.637	0.054	0.056	0.994	0.699	0.532	0.071

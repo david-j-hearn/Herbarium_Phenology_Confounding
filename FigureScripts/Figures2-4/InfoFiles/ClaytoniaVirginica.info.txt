@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/ClaytoniaVirginica/ClaytoniaVirginica_All_Geo/occurrence.csv
+output	../../SpecimenFiles/ClaytoniaVirginica/ClaytoniaVirginica_All_Geo/occurrence.Parsed.csv
+scientific name	Claytonia virginica
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/CollinsiaVerna/CollinsiaVerna_All_Geo/occurrence.csv
+output	../../SpecimenFiles/CollinsiaVerna/CollinsiaVerna_All_Geo/occurrence.Parsed.csv
+scientific name	Collinsia verna
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

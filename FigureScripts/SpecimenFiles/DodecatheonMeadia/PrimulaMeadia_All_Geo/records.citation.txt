@@ -1,0 +1,13 @@
+http://www.idigbio.org/portal (2021),
+Query: {"filtered": {"filter": {"and": [{"exists": {"field": "geopoint"}}, {"term": {"scientificname": "primula meadia"}}]}}},
+255 records, accessed on 2021-05-17T22:32:03.077301,
+contributed by 9 Recordsets, Recordset identifiers:
+http://www.idigbio.org/portal/recordsets/d7b285d4-2643-45ee-9302-b0c3d51dda5c (104 records)
+http://www.idigbio.org/portal/recordsets/0dab1fc7-ca99-456b-9985-76edbac003e0 (70 records)
+http://www.idigbio.org/portal/recordsets/b2b294ed-1742-4479-b0c8-a8891fccd7eb (26 records)
+http://www.idigbio.org/portal/recordsets/664bd710-8791-4dba-a3b6-000a1b140951 (20 records)
+http://www.idigbio.org/portal/recordsets/a6eee223-cf3b-4079-8bb2-b77dad8cae9d (15 records)
+http://www.idigbio.org/portal/recordsets/5baa1d0c-cfc0-4c89-8e3e-7a49359b0caa (13 records)
+http://www.idigbio.org/portal/recordsets/7026b70a-7245-42bd-8162-81ae9a6cfbcb (5 records)
+http://www.idigbio.org/portal/recordsets/b88033dd-5dbb-4377-b374-2210f32ece16 (1 records)
+http://www.idigbio.org/portal/recordsets/beab5209-9628-4d4d-851e-2bc9bb1a0105 (1 records)

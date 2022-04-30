@@ -1,0 +1,7 @@
+file	../../SpecimenFiles/PodophyllumPeltatum/PodophyllumPeltatum_All_Geo/occurrence.csv
+output	../../SpecimenFiles/PodophyllumPeltatum/PodophyllumPeltatum_All_Geo/occurrence.Parsed.csv
+scientific name	Podophyllum peltatum
+min long	-100
+max long	-65
+min lat	15
+bad doy	0

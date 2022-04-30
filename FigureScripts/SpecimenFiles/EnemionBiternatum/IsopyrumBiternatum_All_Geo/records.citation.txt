@@ -1,0 +1,20 @@
+http://www.idigbio.org/portal (2021),
+Query: {"filtered": {"filter": {"and": [{"exists": {"field": "geopoint"}}, {"term": {"scientificname": "isopyrum biternatum"}}]}}},
+45 records, accessed on 2021-05-17T22:08:16.591834,
+contributed by 16 Recordsets, Recordset identifiers:
+http://www.idigbio.org/portal/recordsets/f0174bc9-0cca-450e-a941-655d80040139 (10 records)
+http://www.idigbio.org/portal/recordsets/8dfc3d88-8f6b-4432-b69c-534717906004 (8 records)
+http://www.idigbio.org/portal/recordsets/3027c437-cdb3-4072-9410-5a46ec3b1fd5 (5 records)
+http://www.idigbio.org/portal/recordsets/6f470382-cb0b-4634-a796-2248bfa97fdc (3 records)
+http://www.idigbio.org/portal/recordsets/945d6d7d-c768-4189-be9d-f693104d590c (3 records)
+http://www.idigbio.org/portal/recordsets/c1e2b821-96a2-422f-a1fe-7a53aaa2e9bf (3 records)
+http://www.idigbio.org/portal/recordsets/cb2973af-0d5a-4fbf-80ab-ec96ede33ef0 (2 records)
+http://www.idigbio.org/portal/recordsets/9401f7e8-7d41-4c57-a5da-8839be046935 (2 records)
+http://www.idigbio.org/portal/recordsets/14f8f83f-7a0c-458c-b6d5-6da7dc8eaa0a (2 records)
+http://www.idigbio.org/portal/recordsets/40250f4d-7aa6-4fcc-ac38-2868fa4846bd (1 records)
+http://www.idigbio.org/portal/recordsets/f84d528a-7d08-467e-b532-ace707316f1d (1 records)
+http://www.idigbio.org/portal/recordsets/db6c3db9-1e6d-4def-af29-33aa0339bfa9 (1 records)
+http://www.idigbio.org/portal/recordsets/1527b668-b797-42be-94d3-0058e1393e94 (1 records)
+http://www.idigbio.org/portal/recordsets/c2767dde-1315-4d78-abf9-8e098dd588ab (1 records)
+http://www.idigbio.org/portal/recordsets/5835f642-2560-4e3e-9c25-741a12cc3fe8 (1 records)
+http://www.idigbio.org/portal/recordsets/ac8c109d-b69c-4359-87f4-8714f8c8a65d (1 records)

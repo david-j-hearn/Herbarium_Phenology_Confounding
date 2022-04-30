@@ -1,0 +1,7 @@
+file	PodophyllumPeltatum/occurrence.csv
+output	PodophyllumPeltatum/occurrence.Parsed.csv
+scientific name	Podophyllum peltatum
+min long	-100
+max long	-65
+min lat	15
+bad doy	0
